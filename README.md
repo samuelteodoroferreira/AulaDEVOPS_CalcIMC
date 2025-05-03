@@ -1,4 +1,4 @@
-# myapp
+# CalculoIMC - Projeto Materia DEVOPs - Universidade Teccnica Federal do Parana 
 
 A new Flutter project.
 
